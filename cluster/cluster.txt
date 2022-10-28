@@ -1,0 +1,5 @@
+https://arxiv.org/pdf/2005.12320.pdf SCAN:2020
+pretext: self-supervised e.g. simCLR
+K-NN in latent space
+ds: loss = self and k-neighbors consistency + self and cluster center entropy / KL-divergence
+K (or C is unknown totally)
